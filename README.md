@@ -11,9 +11,7 @@ The pure game implementation is available at [Scr1pting/Chrome-Dino-Game](https:
 
 ## Neural Network
 
-<img src="resources/nn_structure.svg" alt="Structure of Neural Net" width=500>
-
-As evident in the picture, the neural network is structured as follows:
+The neural network consists of the following four layers:
 
 - **Input:** Game speed, distance to the next obstacle, and that
   obstacle's height.
