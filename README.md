@@ -11,9 +11,7 @@ The pure game implementation is available at [Scr1pting/Chrome-Dino-Game](https:
 
 ## Neural Network
 
-<p align="center">
-  <img src="resources/nn_structure.svg" alt="Structure of Neural Net" width=500>
-</p>
+<img src="resources/nn_structure.svg" alt="Structure of Neural Net" width=500>
 
 As evident in the picture, the neural network is structured as follows:
 
