@@ -1,7 +1,8 @@
 # Neuroevolutionary Chrome Dino AI
 
-This project uses an evolutionary algorithm that evolves a neural
-network so that it can play the Chrome dino game. The game is shown when a user is offline and when opening [chrome://dino](chrome://dino).
+This project uses an evolutionary algorithm that updates a neural
+network to master the Chrome Dino Game. The game is shown when a user
+is offline and when opening [chrome://dino](chrome://dino).
 
 All parameters are set in [src/ai/evo.py](src/ai/evo.py). Feel free to
 update them!
