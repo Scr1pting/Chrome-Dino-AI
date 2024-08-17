@@ -105,7 +105,6 @@ def start_game(genomes, epoch) -> list:
                 )
                 fitnesses.append(player.genome)
                 players.remove(player)
-                break
 
         if players == []:
             return fitnesses
