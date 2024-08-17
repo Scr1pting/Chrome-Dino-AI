@@ -1,5 +1,7 @@
 # Neuroevolutionary Chrome Dino AI
 
+![GIF Showing Successful AI](resources/output.gif)
+
 This project uses an evolutionary algorithm that updates a neural
 network to master the Chrome Dino Game. The game is shown when a user
 is offline and when opening [chrome://dino](chrome://dino).
